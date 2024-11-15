@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: 'November 16, 2024',
-  name: 'Triveni (Miss India)'
+  name: 'Triveni'
 };
 
 function hideEverything() {
